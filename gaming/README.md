@@ -7,7 +7,7 @@ This section contains documentation for various retro gaming operating systems a
 ### [Batocera](./batocera/)
 Linux-based retro gaming distribution for creating a dedicated gaming system. Boots entirely from USB/SD card.
 
-### ReCalbox *(Coming Soon)*
+### [ReCalbox](./recalbox/)
 Another Linux-based retro gaming distribution with a focus on ease of use.
 
 ### RetroPie *(Coming Soon)*
